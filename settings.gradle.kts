@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GitPractice"
 include(":app")
- 
+include(":favorite")
